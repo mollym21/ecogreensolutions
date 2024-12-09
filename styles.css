@@ -1,0 +1,82 @@
+</body>
+<html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: #4CAF50; /* Green background */
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+body {
+    background-color: #d4edda; /* Light green background */
+}
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    width: 90%;
+    max-width: 1200px;
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+header h1, main h2, footer p {
+    text-align: center; /* Centers all headings and footer text */
+}
+
+header {
+    background: #3E8E41;
+    color: white;
+    padding: 1rem;
+    border-radius: 10px 10px 0 0;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+main {
+    padding: 20px;
+}
+
+footer {
+    background: #3E8E41;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    border-radius: 0 0 10px 10px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+.employee, ul li {
+    margin: 20px 0;
+    text-align: center;
+}
+
+iframe {
+    display: block;
+    margin: 20px auto;
+    border: none;
+}>
